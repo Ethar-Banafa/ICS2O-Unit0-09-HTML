@@ -1,0 +1,22 @@
+ p {
+  background-color: lightpink;
+  width: 300px;
+  border: 15px solid black;
+  padding: 20px;
+  margin: 100px;
+  color: blue;
+}
+ img {
+  background-color: lightblue;
+  width: 300px;
+  border: 15px solid blue;
+  padding: 30px;
+  margin: 100px;
+ }
+  table {
+  background-color: lightblue;
+  width: 300px;
+  border: 15pxsolid blue;
+  margin: 100px;
+  }
+
